@@ -3,4 +3,4 @@ Nila Prasetya Aryani
 
 
 ## folders
-+ 01_evaluasi_proposal
++ 01_proposal_review
